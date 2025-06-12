@@ -24,11 +24,6 @@ It supports addition, subtraction, multiplication, division, percentage calculat
 - CSS3 (with Flexbox for layout)
 - Vanilla JavaScript (inline JS for simplicity)
 
-## Demo
-
-You can try it live here: *(Add your GitHub Pages or hosted URL if any)*
-
-## Installation
 
 1. Clone the repository:
 
